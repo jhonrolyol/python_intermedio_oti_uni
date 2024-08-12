@@ -29,27 +29,31 @@ Este curso está dirigido a alumnos de pregrado de todas las universidades.
 ## Temario del curso 
 
 ### Módulo 1
-- *1.- Manejo de Errores y Excepciones*
-- *2.- Sentencia raise*
-- *3.- Sentencias : Try & Except*
-- *4.- Uso de assert*
-- *5.- Definiendo excepciones*
+- *Manejo de Errores y Excepciones*
+- *Sentencia raise*
+- *Sentencias : Try & Except*
+- *Uso de assert*
+- *Definiendo excepciones*
 
 ### Módulo 2 
-- *1.- Métodos Numéricos*
-	-*1.1.- Álgebra Lineal*
-	-*1.2.- Interpolación*
-	-*1.3.- Cálculo de raíces*
-	-*1.4.- Derivación e Integración numérica*
+- * Métodos Numéricos*
+
+	-*Álgebra Lineal*
+	
+	-*Interpolación*
+	
+	-*Cálculo de raíces*
+	
+	-*Derivación e Integración numérica*
 
 ### Módulo 3
-- *1.- Programación Orientada a objetos*
-- *2.- Tipos de datos abstractos y clases*
-- *3.- Instancias*
-- *4.- Abstracción*
-- *5.- Encapsulación*
-- *6.- Herencia*
-- *7.- Polimorfismo*
+- *Programación Orientada a objetos*
+- *Tipos de datos abstractos y clases*
+- *Instancias*
+- *Abstracción*
+- *Encapsulación*
+- *Herencia*
+- *Polimorfismo*
 
 
 ## Docente 
