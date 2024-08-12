@@ -38,13 +38,13 @@ Este curso está dirigido a alumnos de pregrado de todas las universidades.
 ### Módulo 2 
 - *Métodos Numéricos*
 
-	* **Álgebra Lineal*
+	* **Álgebra Lineal**
 	
-	* **Interpolación*
+	* **Interpolación**
 	
-	* **Cálculo de raíces*
+	* **Cálculo de raíces**
 	
-	* **Derivación e Integración numérica*
+	* **Derivación e Integración numérica**
 
 ### Módulo 3
 - *Programación Orientada a objetos*
